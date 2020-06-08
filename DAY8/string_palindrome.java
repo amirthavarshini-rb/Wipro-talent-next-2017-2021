@@ -1,5 +1,6 @@
-mport java.io.*;
+import java.io.*;
 import  java.util.*;
+import  java.lang.*;
 class UserMainCode{
   public int isPalindrome(String input1){
   input1 = input1.toLowerCase();
